@@ -1,0 +1,5 @@
+provider=cloudservers
+driver=rackspace
+identity=user
+credential=your_credential
+tag=name_of_your_server

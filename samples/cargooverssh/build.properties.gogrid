@@ -1,0 +1,5 @@
+provider=gogrid
+driver=gogrid
+identity=apikey
+credential=secret
+tag=name_of_your_server

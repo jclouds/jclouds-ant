@@ -1,0 +1,5 @@
+provider=rimuhosting
+driver=rimuhosting
+identity=apicredential
+credential=apicredential
+tag=name_of_your_server
